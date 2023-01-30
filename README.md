@@ -35,5 +35,5 @@
 
   <div>
     <a href="mailto:pedroh.ps0102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://discord.gg/G9GPg5sA75"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://discord.gg/CatQh6CQp9" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   </div>
