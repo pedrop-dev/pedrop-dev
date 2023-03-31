@@ -1,9 +1,8 @@
 ### <h1>Hi there, I'm Pedro</h1>
 
-<div align="left">
+<div align="center">
   <a href="https//github.com/pedrohenriquepsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrop-dev&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop-dev&layout=demo&langs_count=16&theme=dracula"/>
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=pedrop-dev&show_icons=true&count_private=true&hide_border=true&title_color=8be9fd&icon_color=8be9fd&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /> <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop-dev&layout=compact&hide_border=true&title_color=8be9fd&text_color=8be9fd&bg_color=0d1117" /> 
 </div>
   
   <br>
