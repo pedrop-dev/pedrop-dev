@@ -2,8 +2,8 @@
 
 <div align="left">
   <a href="https//github.com/pedrohenriquepsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquepsilva&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquepsilva&layout=demo&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrop-dev&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop-dev&layout=demo&langs_count=16&theme=dracula"/>
 </div>
   
   <br>
