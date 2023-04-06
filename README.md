@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https//github.com/pedrop-dev">
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=pedrop-dev&show_icons=true&count_private=true&hide_border=true&title_color=8be9fd&icon_color=8be9fd&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /> <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop-dev&layout=compact&hide_border=true&title_color=8be9fd&text_color=8be9fd&bg_color=0d1117" /> 
-</div>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrop-dev&show_icons=true&count_private=true&hide_border=true&title_color=bd93f9&icon_color=bd93f9&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop-dev&layout=compact&hide_border=true&title_color=bd93f9&text_color=bd93f9&bg_color=0d1117" /> 
+</div> 
   
   <br>
  
