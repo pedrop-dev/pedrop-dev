@@ -1,7 +1,7 @@
 ### <h1>Hi there, I'm Pedro</h1>
 
 <div align="center">
-  <a href="https//github.com/pedrohenriquepsilva">
+  <a href="https//github.com/pedrop-dev">
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=pedrop-dev&show_icons=true&count_private=true&hide_border=true&title_color=8be9fd&icon_color=8be9fd&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /> <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop-dev&layout=compact&hide_border=true&title_color=8be9fd&text_color=8be9fd&bg_color=0d1117" /> 
 </div>
   
