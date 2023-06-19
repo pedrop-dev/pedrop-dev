@@ -20,6 +20,7 @@
     <img height="30" width="50" alt="reactjs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img height="30" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img height="30" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="30" width="50" alt="vscode-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img height="30" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img height="30" width="50" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img height="30" width="50" alt="vscode-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
