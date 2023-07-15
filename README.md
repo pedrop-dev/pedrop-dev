@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https//github.com/pedrop-dev">
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrop-dev&show_icons=true&bg_color=0d1117&title_color=bd93f9&hide_border=true&text_color=ffff&icon_color=bd93f9"  alt="Pedro github stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrop-dev&show_icons=true&bg_color=0d1117&title_color=bd93f9&hide_border=true&text_color=ffff&icon_color=bd93f9&rank_icon=github&include_all_commits=true"  alt="Pedro github stats"/>
     
    <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrop-dev&layout=compact&hide_border=true&title_color=bd93f9&text_color=bd93f9&bg_color=0d1117" /> 
 </div> 
