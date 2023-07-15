@@ -1,4 +1,4 @@
-### <h1>Hi there, I'm Pedro</h1>
+### <h1>Hi there</h1>
 
 <div align="center">
   <a href="https//github.com/pedrop-dev">
